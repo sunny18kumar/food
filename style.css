@@ -204,7 +204,7 @@ footer{
     text-align: center;
 
 }
-@media screen and (max-width:430px){
+@media screen and (max-width:320px){
     /* Navigation */
 #navbar {
     flex-direction: column;
